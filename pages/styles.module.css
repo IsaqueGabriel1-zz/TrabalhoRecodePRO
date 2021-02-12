@@ -1,0 +1,40 @@
+.nav{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 10vh;
+    background: rgb(22, 22, 22);
+    
+}
+.corpo{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 80vh;
+    background: #6b35ff;
+    
+}
+.rodape{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 10vh;
+    background: rgb(22, 22, 22);
+    
+}
+
+.link1{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    padding: 1em;
+    color: white;
+}
+.apresentacao{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    padding: 1em;
+    color: white;
+    font-size: 3em;
+}
