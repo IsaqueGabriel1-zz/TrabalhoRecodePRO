@@ -1,6 +1,3 @@
-import Head from 'next/head'
-import 'bootstrap/dist/css/bootstrap.min.css';
-import { Button } from 'reactstrap';
 import styles from './styles.module.css'
 
 
